@@ -20,12 +20,12 @@
         app:layout_constraintVertical_bias="@dimen/first_bias"/>
 
     <EditText
-        android:id="@+id/mUserPassword"
+        android:id="@+id/mUserEmail"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/margin"
         android:hint="@string/user_password"
-        android:inputType="textPassword"
+        android:inputType="textEmailAddress"
         app:layout_constraintTop_toBottomOf="@+id/mUserName"
         style="@style/UserInputs"/>
 
