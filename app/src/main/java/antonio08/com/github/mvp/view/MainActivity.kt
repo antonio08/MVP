@@ -1,7 +1,8 @@
-package antonio08.com.github.mvp
+package antonio08.com.github.mvp.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import antonio08.com.github.mvp.R
 
 class MainActivity : AppCompatActivity() {
 
